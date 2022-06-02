@@ -1,1 +1,1 @@
-# Generates Julia set for remote device
+# Generates Julia set for remote device.
